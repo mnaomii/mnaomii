@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="45" viewBox="0 0 440 45" role="img" aria-label="welcome">
+  <title>welcome</title>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-size="22" font-weight="600"
+        font-family="JetBrains Mono, Fira Code, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        fill="#ff00ff"><tspan>w<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="0.00s" repeatCount="indefinite"/></tspan><tspan>e<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="-0.16s" repeatCount="indefinite"/></tspan><tspan>l<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="-0.32s" repeatCount="indefinite"/></tspan><tspan>c<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="-0.48s" repeatCount="indefinite"/></tspan><tspan>o<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="-0.64s" repeatCount="indefinite"/></tspan><tspan>m<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="-0.80s" repeatCount="indefinite"/></tspan><tspan>e<animate attributeName="fill" values="#ff0080;#ff00c8;#ff00ff;#d400ff;#ff00ff;#ff00c8;#ff0080" dur="3.0s" begin="-0.96s" repeatCount="indefinite"/></tspan></text>
+</svg>
