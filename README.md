@@ -6,6 +6,7 @@
 <p align="center">
   <img alt="▸" height="11" src="assets/bullet.svg">&nbsp;&nbsp;building · voidwalk (C++20 binary analysis tool)<br>
   <img alt="▸" height="11" src="assets/bullet.svg">&nbsp;&nbsp;learning · htb, rust<br>
+  <img alt="▸" height="11" src="assets/bullet.svg">&nbsp;&nbsp;reach me · <a href="mailto:contact@mnaomii.com">contact@mnaomii.com</a><br>
 </p>
 
 <p align="center">
