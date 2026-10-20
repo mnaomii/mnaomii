@@ -13,7 +13,7 @@
   <img alt="c++" src="https://img.shields.io/badge/c%2B%2B-1a1a22?style=flat-square&logo=cplusplus&logoColor=ff00ff">
   <img alt="c" src="https://img.shields.io/badge/c-1a1a22?style=flat-square&logo=c&logoColor=ff00ff">
   <img alt="rust" src="https://img.shields.io/badge/rust-1a1a22?style=flat-square&logo=rust&logoColor=ff00ff">
-  <img alt="java" src="https://img.shields.io/badge/java-1a1a22?style=flat-square&logo=openjdk&logoColor=ff00ff">
+  <img alt="java" src="https://img.shields.io/badge/java-1a1a22?style=flat-square">
   <img alt="asm" src="https://img.shields.io/badge/asm-1a1a22?style=flat-square">
   <img alt="bash" src="https://img.shields.io/badge/bash-1a1a22?style=flat-square&logo=gnubash&logoColor=ff00ff">
   <img alt="python" src="https://img.shields.io/badge/python-1a1a22?style=flat-square&logo=python&logoColor=ff00ff">
